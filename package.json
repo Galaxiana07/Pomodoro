@@ -1,0 +1,21 @@
+{
+  "name": "pomodoro",
+  "version": "1.0.0",
+  "description": "aplicação de contador pomodoro",
+  "keywords": [
+    "pomodoro",
+    "aplicação",
+    "estudo"
+  ],
+  "license": "ISC",
+  "author": "Analice de Aquino Guimarães, Leonardo S. Souza",
+  "type": "commonjs",
+  "main": "back-end/app.js",
+  "scripts": {
+    "start": " "
+  },
+  "devDependencies": {
+    "electron": "^41.2.1",
+    "sass": "^1.99.0"
+  }
+}
